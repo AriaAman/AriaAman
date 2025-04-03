@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aria AMAN</h1>
 <h3 align="center">A passionate Full-Stack developer from Paris</h3>
 
-- 🌱 I’m currently learning **Vue.Js , Node.js**
-
 - 📫 How to reach me **ariaaman@outlook.fr**
 
-- ⚡ Fun fact **I think I'm a good developer :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
