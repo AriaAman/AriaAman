@@ -84,20 +84,6 @@ Je suis un **développeur Full-Stack passionné** basé à Paris, actuellement e
 
 **Stack:** Node.js, TypeScript, Domain-Driven Design
 
-## 💼 Expérience Professionnelle
-
-### 🏢 RAJA - Développeur Full-Stack (2023-2025)
-- 🛠️ **Développement d'outils internes** pour l'automatisation des workflows
-- 🌐 **Maintenance de 20 sites web** du groupe (mises à jour, correctifs)
-- 📊 **A/B Testing** pour optimiser le ROI
-- 🚀 **Technologies:** HTML, JavaScript, React.js, SCSS, Tailwind, Node.js, Supabase
-
-### 💻 RTIT Consulting - Développeur Full-Stack (2022-2023)
-- 📱 **Développement Front-End** de SmartImmoKnowledge
-- 📲 **Application mobile** (iOS & Android) de SmartImmoKnowledge
-- 🧪 **Tests unitaires & End-to-End** avec Cypress et Jest
-- 🔧 **Technologies:** Vue.js, Cypress, Jest, GitLab, API REST, Laravel
-
 ## 📚 Formation
 
 - 🎓 **Master Ingénierie du Web** (2023-2025) - ESGI Paris
